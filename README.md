@@ -1,4 +1,4 @@
-# Sup!
+## Sup!
 
 I like building things end-to-end — the kind of projects where I own the data model, the deploy pipeline, and the thing the user actually touches.
 
