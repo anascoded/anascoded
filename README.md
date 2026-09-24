@@ -6,6 +6,6 @@ AI tooling is a real part of how I work, not autocomplete, but a collaborator I 
 
 Based in Boston. Currently digging into Kafka and event-driven architecture, which is the gap I most want to close.
 
-Say hi: [LinkedIn](https://www.linkedin.com/in/mranas/)
+Say hi: [(https://github.com/CLorant/readme-social-icons/blob/main/small/filled/linkedin.svg)](https://www.linkedin.com/in/mranas/)
 
 Cheers!
