@@ -8,4 +8,6 @@ Based in Boston. Currently digging into Kafka, ML, and event-driven architecture
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/mranas/)
 
+[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/x.svg)](https://www.x.com/AnasSallam_/)
+
 Cheers!
